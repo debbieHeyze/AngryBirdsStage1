@@ -1,2 +1,2 @@
-# AngryBirdsStage1
-One bird controlled by the mouse, topple the blocks
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
